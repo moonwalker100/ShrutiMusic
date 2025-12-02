@@ -14,7 +14,7 @@ motor
 numpy
 opencv-python
 pytz
-pillow==9.5.0
+pillow==11.0.0
 psutil
 py-tgcalls==0.9.7
 pykeyboard
@@ -36,4 +36,5 @@ yt-dlp
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
 # 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
+
 
