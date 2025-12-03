@@ -35,7 +35,7 @@ load_dotenv()
 # 📲 Telegram & API Credentials
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-API_ID = int(os.getenv("27693340")
+API_ID = int(os.getenv("27693340"))
 API_HASH = os.getenv("1056193e68c138ee16edc02578c559e1")
 BOT_TOKEN = os.getenv("8590423863:AAGh3zUv8T-DpDLC8HtcC9w0WM2tADvdMBE")
 OWNER_ID = int(os.getenv("8525952693", None))
